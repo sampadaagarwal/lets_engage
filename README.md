@@ -1,6 +1,6 @@
 # lets_engage
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Application- Works on Android, iOS & Web! 
 
 ## Features
 - Responsive Instagram UI
